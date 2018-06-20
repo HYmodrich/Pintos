@@ -1,0 +1,10 @@
+Prototype mismatch: sub main::SIGVTALRM () vs none at /home/gaya/VM/Project3/Origin/src/utils/pintos line 935.
+Constant subroutine SIGVTALRM redefined at /home/gaya/VM/Project3/Origin/src/utils/pintos line 927.
+00000000000i[     ] reading configuration from bochsrc.txt
+00000000000e[     ] bochsrc.txt:8: 'user_shortcut' will be replaced by new 'keyboard' option.
+00000000000i[     ] installing nogui module as the Bochs GUI
+00000000000i[     ] using log file bochsout.txt
+========================================================================
+Bochs is exiting with the following message:
+[UNMP ] Shutdown port: shutdown requested
+========================================================================
